@@ -1,0 +1,11 @@
+:root{
+    --primary-color: #88E5E3;
+    --secondary-color: #5856E8;
+    --background-color: #01020A;
+    --paragraph-color: #ebebeb;
+    --hover-link: #00C0E8;
+    --title-white: #fff;
+    --emphazing-color: #ff7642;
+    --dm: 'DM Sans', sans-serif;
+    --poppins: 'Poppins', sans-serif;
+}
