@@ -28,6 +28,9 @@
             <a class="contact-button" href="http://" target="_blank" rel="noopener noreferrer">Fale Conosco</a>
         </nav>
         <nav class="menu-responsive active-nav">
+            <div class="menu-responsive-hamburger-toggle">
+                <img class="menu-hamburger-icon" src="/wp-content/uploads/2023/03/icon-menu.png" alt="menu-hamburger">
+            </div>
             <?php
             wp_nav_menu(array(
                 'menu' => 'menu-navegacao',
