@@ -23,8 +23,15 @@
     height: 100%;
 }
 
+#header-main nav{
+    display: none;
+}
+
+#header-main .active-nav{
+    display: flex !important;
+}
+
 #header-main .main-menu{
-    display: flex;
     width: 100%;
     max-width: 500px;
     justify-content: flex-end;

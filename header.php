@@ -27,7 +27,7 @@
             ?>
             <a class="contact-button" href="http://" target="_blank" rel="noopener noreferrer">Fale Conosco</a>
         </nav>
-        <nav class="menu-responsive">
+        <nav class="menu-responsive active-nav">
             <?php
             wp_nav_menu(array(
                 'menu' => 'menu-navegacao',
