@@ -21,5 +21,5 @@ window.addEventListener("resize", function () {
 
 $('.menu-responsive-hamburger-toggle').click(function() {
   $(this).toggleClass('open');
-  $('.menu-menu-principal-container').toggleClass('show');
+  $('.menu-menu-principal-container').toggleClass('active-nav');
 });
